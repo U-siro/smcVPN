@@ -1,1 +1,2 @@
 # smcVPN
+openVPN with Settings
